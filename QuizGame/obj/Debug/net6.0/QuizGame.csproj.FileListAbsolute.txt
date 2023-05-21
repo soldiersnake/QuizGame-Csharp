@@ -1,0 +1,15 @@
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.exe
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.deps.json
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.runtimeconfig.json
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.dll
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.pdb
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.csproj.AssemblyReference.cache
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.AssemblyInfo.cs
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.dll
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\refint\QuizGame.dll
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.pdb
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.genruntimeconfig.cache
+C:\Users\Mariano Macias\source\repos\QuizGame\QuizGame\obj\Debug\net6.0\ref\QuizGame.dll
